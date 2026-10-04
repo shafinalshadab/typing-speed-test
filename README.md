@@ -17,11 +17,3 @@ An intermediate command-line interface (CLI) application built with Python to me
 
 - **Python 3.6+** installed on your system.
 
----
-
-## 💻 Installation & Setup
-
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/your-username/typing-speed-test.git](https://github.com/your-username/typing-speed-test.git)
-   cd typing-speed-test
